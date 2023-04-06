@@ -10,16 +10,16 @@ Stock Trade is online investment platform which aims to bring the financial inve
 
 # Technologies
 FRONTEND
-*BOOTSTRAP
-*HTML
-*CSS
-*JQUERY
+(*) BOOTSTRAP
+(*) HTML
+(*) CSS
+(*) JQUERY
 
 FRONTEND
-*FLASK
-*MYSQL(sqlAlchemy)
-*GUNNICORN
-*NGINX
+(*) FLASK
+(*) MYSQL(sqlAlchemy)
+(*) GUNNICORN
+(*) NGINX
 
 # Data Model
 nvestor:  It holds investor details (balance, id , email, name etc)
